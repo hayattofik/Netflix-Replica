@@ -156,5 +156,43 @@ body {
   }
   .options i,.options a {
     padding-right: 20px;
-    color:white;
+    color:white;}
+
+  .movie-cat{
+margin: 27px;
   }
+  .movie-pic{
+    display: flex;
+  }
+  .violent{
+    position: absolute;
+    top: 400px;
+   
+    margin: 15px;
+
+  }
+  .violent h3{
+    padding-bottom: 15px;
+  }
+  .movie-pic li img{
+    padding-right: 10px;
+    width: 200px;
+    height: 120px;}
+    .cat{
+      margin-top:70px;
+      margin-left: 37px;
+    }
+  .cat ul{
+display: flex;
+
+  }
+  .cat h3{
+    padding-bottom: 15px;
+    margin-top:100px;
+  }
+  .cat li img{
+    padding-right: 10px;
+    width: 200px;
+    height: 120px;
+  }
+ 
